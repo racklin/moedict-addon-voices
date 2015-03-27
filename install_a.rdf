@@ -4,7 +4,7 @@
     <Description about="urn:mozilla:install-manifest">
         <em:id>moedict-addon-voice-a@moedict.tw</em:id>
         <em:name>MoeDict App Voice Pack (Mandarin)</em:name>
-        <em:version>1.0.0</em:version>
+        <em:version>1.0.1</em:version>
         <em:description>MoeDict App Voice Pack (Mandarin)</em:description>
         <em:creator>Rack Lin(racklin@gmail.com)</em:creator>
         <em:homepageURL>https://github.com/racklin/</em:homepageURL>

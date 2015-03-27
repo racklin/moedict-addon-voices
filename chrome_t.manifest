@@ -1,2 +1,2 @@
-content moedict-app-voice-t voices/t/
+content moedict-app-voice-t jar:t.jar!/voices/t/
 

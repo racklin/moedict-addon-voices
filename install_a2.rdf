@@ -2,10 +2,10 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
     <Description about="urn:mozilla:install-manifest">
-        <em:id>moedict-addon-voice-t@moedict.tw</em:id>
-        <em:name>MoeDict App Voice Pack (Taiwanese)</em:name>
+        <em:id>moedict-addon-voice-a2@moedict.tw</em:id>
+        <em:name>MoeDict App Voice Pack (Mandarin) Part2</em:name>
         <em:version>1.1.1</em:version>
-        <em:description>MoeDict App Voice Pack (Taiwanese)</em:description>
+        <em:description>MoeDict App Voice Pack (Mandarin) Part2</em:description>
         <em:creator>Rack Lin(racklin@gmail.com)</em:creator>
         <em:homepageURL>https://github.com/racklin/</em:homepageURL>
         <em:type>2</em:type>
@@ -24,8 +24,8 @@
     <em:localized>
       <Description>
         <em:locale>zh</em:locale>
-        <em:name>萌典離線版語音 － 台灣閩南語</em:name>
-        <em:description>萌典離線版語音 － 台灣閩南語</em:description>
+        <em:name>萌典離線版語音 － 國語(第二部份)</em:name>
+        <em:description>萌典離線版語音 － 國語(第二部份)</em:description>
       </Description>
     </em:localized>
 
